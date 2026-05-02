@@ -1,0 +1,7 @@
+# Cloudflare Workers 静态资源部署（Vite 产物 dist）
+# 修复: "A compatibility_date is required when publishing"
+name = "cursor-tax-alert0725"
+compatibility_date = "2024-05-01"
+
+[assets]
+directory = "./dist"
